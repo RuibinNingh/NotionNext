@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '海内存知己,天涯若比邻',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '个人笔记', url: '/tag/个人笔记' },
@@ -51,8 +51,8 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/RuibinNingh',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  //HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
-  //HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_URL3: 'https://music.163.com/#/user/home?id=4914533619',
+  HEO_INFO_CARD_ICON3: '网易云',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
