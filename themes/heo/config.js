@@ -18,17 +18,17 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_1: '专注于',
+  HEO_HERO_TITLE_2: '知识分享,个人笔记,动态',
   HEO_HERO_TITLE_3: '海内存知己,天涯若比邻',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '个人笔记', url: '/tag/个人笔记' },
+  HEO_HERO_CATEGORY_2: { title: '技术分享', url: '/tag/技术分享' },
+  HEO_HERO_CATEGORY_3: { title: '心情随笔', url: '/tag/心情随笔' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
@@ -114,7 +114,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
