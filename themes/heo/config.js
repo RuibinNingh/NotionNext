@@ -51,8 +51,8 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/RuibinNingh',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://music.163.com/#/user/home?id=4914533619',
-  HEO_INFO_CARD_ICON3: '网易云',
+  HEO_INFO_CARD_URL3: '/links',
+  HEO_INFO_CARD_ICON3: '了解更多',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
