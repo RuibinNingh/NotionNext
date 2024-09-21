@@ -52,7 +52,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://github.com/RuibinNingh',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: '/links',
-  HEO_INFO_CARD_ICON3: '了解更多',
+  HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -141,7 +141,7 @@ const CONFIG = {
   HEO_ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   HEO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
-  HEO_WIDGET_ANALYTICS: false, // 显示统计卡
+  HEO_WIDGET_ANALYTICS: true, // 显示统计卡
   HEO_WIDGET_TO_TOP: true,
   HEO_WIDGET_TO_COMMENT: true, // 跳到评论区
   HEO_WIDGET_DARK_MODE: true, // 夜间模式
