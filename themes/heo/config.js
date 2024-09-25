@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '专注于',
   HEO_HERO_TITLE_2: '知识分享,个人笔记,动态',
   HEO_HERO_TITLE_3: '海内存知己,天涯若比邻',
-  HEO_HERO_TITLE_4: '等待出成绩',
-  HEO_HERO_TITLE_5: 'CSP-J 2024考完啦!',
+  HEO_HERO_TITLE_4: '刷题ing',
+  HEO_HERO_TITLE_5: '备考CSP-S',
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
