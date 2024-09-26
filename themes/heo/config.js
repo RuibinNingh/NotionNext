@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '海内存知己,天涯若比邻',
   HEO_HERO_TITLE_4: '刷题ing',
   HEO_HERO_TITLE_5: '备考CSP-S',
-  HEO_HERO_TITLE_LINK: '',
+  HEO_HERO_TITLE_LINK: '推荐文章',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '个人笔记', url: '/category/个人笔记' },
