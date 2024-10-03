@@ -21,9 +21,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '专注于',
   HEO_HERO_TITLE_2: '知识分享,个人笔记,动态',
   HEO_HERO_TITLE_3: '海内存知己,天涯若比邻',
-  HEO_HERO_TITLE_4: '刷题ing',
-  HEO_HERO_TITLE_5: '备考CSP-S',
-  HEO_HERO_TITLE_LINK: '',
+  HEO_HERO_TITLE_4: 'The wind whispers your name, and the stars hold your reflection in the night.',
+  HEO_HERO_TITLE_5: '晓看天色暮看云，行也思君，坐也思君。',
+  HEO_HERO_TITLE_LINK: '来篇文章',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '个人笔记', url: '/category/个人笔记' },
@@ -38,12 +38,9 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '👨‍💻程序员',
+    '💻OIer',
+    '👨‍🎓学生'
   ],
 
   // 个人资料底部按钮
