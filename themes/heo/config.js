@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '海内存知己,天涯若比邻',
   HEO_HERO_TITLE_4: 'The wind whispers your name, and the stars hold your reflection in the night.',
   HEO_HERO_TITLE_5: '晓看天色暮看云，行也思君，坐也思君。',
-  HEO_HERO_TITLE_LINK: '来篇文章',
+  HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '个人笔记', url: '/category/个人笔记' },
