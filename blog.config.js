@@ -20,12 +20,12 @@ const BLOG = {
   // 3.14.1版本后，欢迎语在此配置，英文逗号隔开 ,  即可支持多个欢迎语打字效果。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    'Hi，I am Ruibin_Ningh👋 , 欢迎来到我的博客🎉',
+    '晓看天色暮看云，行也思君，坐也思君。 , The wind whispers your name, and the stars hold your reflection in the night.',
 
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || false, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Ruibin_Ningh', // 您的昵称 例如 tangly1024
-  BIO: process.env.NEXT_PUBLIC_BIO || '一个热爱编程的coder', // 作者简介
+  BIO: process.env.NEXT_PUBLIC_BIO || '一个热爱编程的oier', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://blog-of-ruibinningh.zeabur.app/', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Ruibin_Ningh, 博客', // 网站关键词 英文逗号隔开
 
