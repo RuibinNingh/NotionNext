@@ -20,7 +20,7 @@ const BLOG = {
   // 3.14.1版本后，欢迎语在此配置，英文逗号隔开 ,  即可支持多个欢迎语打字效果。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    '晓看天色暮看云，行也思君，坐也思君。 , The wind whispers your name, and the stars hold your reflection in the night.',
+    '晓看天色暮看云，行也思君，坐也思君。',
 
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || false, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
@@ -220,7 +220,7 @@ const BLOG = {
   POST_PREVIEW_LINES: process.env.NEXT_PUBLIC_POST_POST_PREVIEW_LINES || 12, // 预览博客行数
   POST_RECOMMEND_COUNT: process.env.NEXT_PUBLIC_POST_RECOMMEND_COUNT || 6, // 推荐文章数量
   POSTS_PER_PAGE: process.env.NEXT_PUBLIC_POST_PER_PAGE || 12, // post counts per page
-  POSTS_SORT_BY: process.env.NEXT_PUBLIC_POST_SORT_BY || 'notion', // 排序方式 'date'按时间,'notion'由notion控制
+  POSTS_SORT_BY: process.env.NEXT_PUBLIC_POST_SORT_BY || 'date', // 排序方式 'date'按时间,'notion'由notion控制
 
   POST_WAITING_TIME_FOR_404:
     process.env.NEXT_PUBLIC_POST_WAITING_TIME_FOR_404 || '8', // 文章加载超时时间，单位秒；超时后跳转到404页面
