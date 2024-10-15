@@ -110,6 +110,7 @@ const GlobalHead = props => {
           content={SEO_GOOGLE_SITE_VERIFICATION}
         />
       )}
+      <meta name="google-site-verification" content="IlpoxuomhmOMFMVtfonFTiZ03ETDdoX5TWboNUUpe-c" />
       <meta name="msvalidate.01" content="6A8BF94F24C8AB0984F69FB673BA38A8" />
       {SEO_BAIDU_SITE_VERIFICATION && (
         <meta
